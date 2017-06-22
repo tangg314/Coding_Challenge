@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="articlePic"/>
+    <item type="id" name="articleTitle"/>
+    <item type="id" name="articleRecyclerView"/>
+    <item type="id" name="MainActivityLayout"/>
+    <item type="id" name="articleFullPageWebView"/>
+    <item type="id" name="articleDate"/>
+    <item type="id" name="articleSummary"/>
+    <item type="id" name="toolBar"/>
+    <item type="id" name="toolBarTitle"/>
+    <item type="id" name="refreshButton"/>
+    <item type="id" name="fullPagetoolBar"/>
+    <item type="id" name="articleFullPageLayout"/>
+    <item type="id" name="articleFullPageTitle"/>
+    <item type="id" name="bitmapProgressBar"/>
+    <item type="id" name="xmlProgressBar"/>
+    <item type="id" name="fullpageArticleProgressBar"/>
+    <item type="id" name="articleCardViewFrameLayout"/>
+    <item type="id" name="newarticleCardViewFrameLayout"/>
+</resources>
